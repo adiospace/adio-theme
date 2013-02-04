@@ -1,1 +1,1 @@
-![](https://github.com/adrianolaru/adio-theme/blob/master/images/adio-theme.png)
+![](https://raw.github.com/adrianolaru/adio-theme/master/images/adio-theme.png)
