@@ -3,7 +3,8 @@
 #Adio
 
 Adio is dark theme for iTerm2, tmux and Vim. The Vim colorscheme is made for
-terminals suporting 256 colors only.
+terminals suporting 256 colors only and the syntax highlighting is based on
+Molokai colorscheme.
 
 ## iTerm2
 
@@ -26,8 +27,8 @@ Vim colorscheme to easily be installed by using a plugin manager like
 [Vundle](https://github.com/gmarik/vundle) or
 [Pathogen](https://github.com/tpope/vim-pathogen).
 
-For example, if you have Vundle installed, you just declare a bundle in your
-`.vimrc', and then run :BundleInstall vim command.
+For example, if you have Vundle installed, you just declare the bundle you wish
+to install in your `.vimrc`, and then run `:BundleInstall` Vim command.
 
     Bundle 'adrianolaru/vim-adio'
 
