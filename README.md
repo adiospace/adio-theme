@@ -38,4 +38,4 @@ In case you wonder, my prompt is declared in my [bash_profile](https://github.co
 
     export PS1='┌─[\[\e[38;5;32m\]\w\[\e[0m\]\[\e[38;5;240m\]$(__git_ps1 " (%s)")\[\e[0m\]]\n└─╼ '
 
-where `__git_ps1` is a bash function from [git-prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh), a bash script that comes with Git.
+where `__git_ps1` is a function from [git-prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh), a bash script that comes with Git.
